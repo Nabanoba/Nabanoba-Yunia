@@ -1,7 +1,7 @@
 # ATM Program with Login and Withdrawal
 
 # Stored credentials and account balance
-stored_username = "user123"
+stored_username = "r123use"
 stored_pin = "1234"
 account_balance = 1000.0  # Starting balance
 
